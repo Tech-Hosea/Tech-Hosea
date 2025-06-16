@@ -1,7 +1,4 @@
 
-
-# 👋 Welcome to My IT Portfolio
-
 I'm Sudo — an aspiring IT Support Specialist with a focus on Cybersecurity. This site showcases my **homelab projects**, **technical documentation**, and **certifications**.
 
 🚀 **Goal**: Start in IT Support → Cybersecurity Specialist → Engineer  
