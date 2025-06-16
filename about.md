@@ -1,5 +1,3 @@
-# 👨‍💻 About Me
-
 I hold a BBA in Computer Information Systems with a Cybersecurity concentration. My experience includes:
 
 - Audio & Visual equipment setup at Georgia Lautu Baptist Church
