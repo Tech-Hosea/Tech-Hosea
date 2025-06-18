@@ -3,25 +3,16 @@ layout: default
 title: Projects
 ---
 
-# 🛠️ Homelab Projects
+# 🧪 Projects & Labs
 
-## 🖥️ Active Directory + DHCP
+### 🔌 SolarWinds UPS Monitoring
+Migrated UPS devices from StruxureWare to SolarWinds. Improved uptime tracking, alerts, and site visibility.  
+[Details](docs/solarwinds-upgrade.md)
 
-- Deployed Windows Server 2019 with AD DS and DHCP roles
-- Created OUs, users/groups, applied GPOs
-- VLAN integration tested via pfSense
+### 🖥️ Active Directory + DHCP Lab
+Built a domain using Windows Server 2022 in Proxmox. Configured DHCP and user/group policies.  
+[Details](docs/ad-dhcp-lab.md)
 
-![AD Setup](images/ad-screenshot.png)
-
-## 🔐 Endpoint Protection + MFA
-
-- Configured Conditional Access via Microsoft Entra
-- Deployed test malware via EICAR file to test endpoint defense
-- Integrated Microsoft Defender and MFA policy enforcement
-
-## 🔁 WSUS + Patch Management
-
-- Set up WSUS on Windows Server
-- Created update groups and scheduled patch deployment for lab VMs
-
-[More details](docs/wsus-setup.md)
+### 🔐 Remote Support Simulation
+Practiced RDP, VNC, SSH in a secure lab environment using internal ticketing and user troubleshooting.  
+[Details](docs/remote-support-lab.md)
