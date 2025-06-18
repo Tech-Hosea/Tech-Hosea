@@ -11,4 +11,4 @@ I hold a BBA in Computer Information Systems with a Cybersecurity concentration.
 - Interning with Fulton County Data Center on UPS & SolarWinds migrations
 - Hands-on homelab work with Dell T330 & VirtualBox labs
 
-**Current Focus**: Mastering technical support, system administration, and building a solid foundation for cybersecurity.
+**Current Focus**: Mastering technical support, system administration, and building a solid foundation for cybersecurity using Home Sever Dell Poweredge T330.
