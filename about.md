@@ -3,12 +3,14 @@ layout: default
 title: About
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I hold a BBA in Computer Information Systems with a Cybersecurity concentration. My experience includes:
+I'm a motivated IT intern with hands-on experience supporting real-world tech environments. My journey includes:
 
-- Sound & network equipment setup at Georgia Lautu Baptist Church
-- Interning with Fulton County Data Center on UPS & SolarWinds migrations
-- Hands-on homelab work with Dell T330 & VirtualBox labs
+- Migrating UPS devices to SolarWinds to enhance network visibility
+- Supporting users and systems across government sites and churches
+- Building a home lab to simulate endpoint protection, Windows domains, and patching
 
-**Current Focus**: Mastering technical support, system administration, and building a solid foundation for cybersecurity using Home Sever Dell Poweredge T330.
+I'm passionate about IT support, networking, and security — and excited to grow into a Cybersecurity Analyst and eventually a Cybersecurity Engineer.
+
+📫 Reach me: hosealian@gmail.com | Atlanta, GA
