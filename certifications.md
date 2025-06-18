@@ -5,14 +5,14 @@ title: Certifications
 
 # 📜 Certifications
 
-### ✅ CompTIA Network+ (in progress)
-- Studying TCP/IP, subnetting, switches, routers, cabling
-- Homelab: Cisco switch VLANs, pfSense routing
+### ✅ Google Cybersecurity Certificate  
+*Expected: August 2024*  
+Covers security principles, incident response, tools, and risk management.
 
-### ✅ Microsoft MD-102 (studying)
-- Device enrollment, compliance policies, app deployment via Intune
-- Practicing on Windows 10 VMs
+### 📘 CompTIA Security+ (SY0-701)  
+*Expected: February 2025*  
+Studying identity, compliance, risk, threats, cryptography, and endpoint defense.
 
-### ✅ Microsoft Entra ID Essentials
-- MFA, SSO, password policies
-- Homelab setup with test user accounts
+### 📘 CompTIA Network+ (N10-009)  
+*Expected: May 2025*  
+Focus on IP addressing, routing, switching, cabling, and OSI model layers.
