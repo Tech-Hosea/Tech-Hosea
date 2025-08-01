@@ -42,6 +42,4 @@ Cloud identity, MDM policies, endpoint protection for Windows/Mac/iOS.
 
 ## 📫 Let's Connect
 
-📧 hosealian@gmail.com 
-📧 hosea@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+📧 hosealian@gmail.com  
