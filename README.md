@@ -15,13 +15,13 @@
 
 ## 📚 Featured Projects
 
-### 🔹 [Homelab IT Support](https://github.com/yourusername/homelab-it-support)
+### 🔹 [Homelab IT Support](https://github.com/Tech-Hosea/homelab-it-support)
 Troubleshooting, asset tracking, ticketing, O365 issues, Jamf/Intune simulations.
 
-### 🔹 [Cybersecurity Labs](https://github.com/yourusername/cybersecurity-labs)
+### 🔹 [Cybersecurity Labs](https://github.com/Tech-Hosea/cybersecurity-labs)
 SIEM setup, vulnerability scans, OS hardening, network segmentation.
 
-### 🔹 [Entra ID + Intune Lab](https://github.com/yourusername/entra-intune-lab)
+### 🔹 [Entra ID + Intune Lab](https://github.com/Tech-Hosea/entra-intune-lab)
 Cloud identity, MDM policies, endpoint protection for Windows/Mac/iOS.
 
 ---
