@@ -8,10 +8,10 @@ I love building homelabs that mirror real-world environments and documenting exa
 ## 👨‍💻 Information Technology Projects (Featured)
 - **Active Directory + Group Policy** – Domain Services, DNS, DHCP, client join, drive mappings via GPO  
   ➜ https://github.com/Tech-Hosea/active-directory-lab
-- **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring  
-  ➜ https://github.com/Tech-Hosea/azure-compute-networking
 - **osTicket (Help Desk)** – Ticketing system setup, email piping, SLA & workflow design  
   ➜ https://github.com/Tech-Hosea/osTicket-setup
+- **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring  
+  ➜ https://github.com/Tech-Hosea/azure-compute-networking
 - **VPN Configuration** – Azure Point-to-Site, pfSense OpenVPN/WireGuard for remote access  
   ➜ https://github.com/Tech-Hosea/vpn-configuration
 - **DNS Lab** – Forward/Reverse lookups, conditional forwarding, split-horizon DNS  
