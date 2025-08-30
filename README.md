@@ -1,7 +1,7 @@
 # How's it going? I'm Hosea 👋
 
 I’m an **IT Professional** focused on **IT Support, Systems Administration, Azure, and Cybersecurity**. 
-I love building homelabs that mirror real-world environments and documenting *exactly* how things work.
+I love building homelabs that mirror real-world environments and documenting exactly how things work.
 
 ---
 
