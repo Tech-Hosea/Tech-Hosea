@@ -6,6 +6,8 @@ I love building homelabs that mirror real-world environments and documenting exa
 ---
 
 ## 👨‍💻 Information Technology Projects (Featured)
+- **Active Directory, Networking, pfSense Firewall, Cisco Switching, VPN, File Sharing and Network Monitoring** -design, deploy, and manage enterprise infrastructure.
+  ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure
 - **Active Directory + Group Policy** – Domain Services, DNS, DHCP, client join, drive mappings via GPO  
   ➜ https://github.com/Tech-Hosea/active-directory-lab
 - **osTicket (Help Desk)** – Ticketing system setup, email piping, SLA & workflow design  
