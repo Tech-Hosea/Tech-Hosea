@@ -16,8 +16,6 @@ I love building homelabs that mirror real-world environments and documenting exa
   ➜ https://github.com/Tech-Hosea/azure-compute-networking
 - **VPN Configuration** – Azure Point-to-Site, pfSense OpenVPN/WireGuard for remote access  
   ➜ https://github.com/Tech-Hosea/vpn-configuration
-- **DNS Lab** – Forward/Reverse lookups, conditional forwarding, split-horizon DNS  
-  ➜ https://github.com/Tech-Hosea/dns-lab
 
 ---
 
