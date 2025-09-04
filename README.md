@@ -8,21 +8,17 @@ I love building homelabs that mirror real-world environments and documenting exa
 ## 👨‍💻 Information Technology Projects (Featured)
 - **Active Directory, Networking, pfSense Firewall, Cisco Switching, VPN, File Sharing and Network Monitoring** -design, deploy, and manage enterprise infrastructure
   ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure
-- **Active Directory + Group Policy** – Domain Services, DNS, DHCP, client join, drive mappings via GPO  
-  ➜ https://github.com/Tech-Hosea/active-directory-lab
 - **osTicket (Help Desk)** – Ticketing system setup, email piping, SLA & workflow design  
   ➜ https://github.com/Tech-Hosea/osTicket-setup
 - **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring  
   ➜ https://github.com/Tech-Hosea/azure-compute-networking
 - **VPN Configuration** – Azure Point-to-Site, pfSense OpenVPN/WireGuard for remote access  
   ➜ https://github.com/Tech-Hosea/vpn-configuration
-
 ---
 
 ## 🎯 What I’m Working On
-- Building a job-ready **Windows Server 2022** lab in **Proxmox**
-- Hardening endpoints with **BitLocker**, **MFA**, and secure baseline GPOs
 - Automating routine tasks with **Bash** and **Python**
+- Working to get my CCNA.
 
 ---
 
