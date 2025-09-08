@@ -11,8 +11,10 @@ I love building homelabs that mirror real-world environments and documenting exa
   ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure
 - **osTicket (Help Desk)** – Ticketing system setup, email piping, SLA & workflow design  
   ➜ https://github.com/Tech-Hosea/osTicket-setup
-- **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring  
-  ➜ https://github.com/Tech-Hosea/azure-compute-networking
+
+---
+## Up coming Project 
+- **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring
 ---
 
 ## 🎯 What I’m Working On
@@ -34,7 +36,6 @@ I love building homelabs that mirror real-world environments and documenting exa
 
 ## 🤳 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/hosea-thang
-- **Resume (PDF):
 ---
 
 ## 📊 GitHub Stats
