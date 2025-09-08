@@ -13,8 +13,6 @@ I love building homelabs that mirror real-world environments and documenting exa
   ➜ https://github.com/Tech-Hosea/osTicket-setup
 - **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring  
   ➜ https://github.com/Tech-Hosea/azure-compute-networking
-- **VPN Configuration** – Azure Point-to-Site, pfSense OpenVPN/WireGuard for remote access  
-  ➜ https://github.com/Tech-Hosea/vpn-configuration
 ---
 
 ## 🎯 What I’m Working On
