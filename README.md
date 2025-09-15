@@ -9,6 +9,10 @@ I love building homelabs that mirror real-world environments and documenting exa
 - **Active Directory, Networking, pfSense Firewall, Cisco Switching, VPN, File Sharing and Network Monitoring** -design, deploy, and manage enterprise infrastructure
   
   ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure
+- **Install AD DS, promote domain controller, create OUs, users, and GPOs
+  
+  ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure/blob/main/docs/ActiveDirectory.md
+  
 - **osTicket (Help Desk)** – Ticketing system setup, email piping, SLA & workflow design  
   ➜ https://github.com/Tech-Hosea/osTicket-setup
 
