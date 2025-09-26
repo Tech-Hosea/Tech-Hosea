@@ -26,7 +26,7 @@ I love building homelabs that mirror real-world environments and documenting exa
 
 ## 🎯 What I’m Working On
 - Automating routine tasks with **Bash** and **Python**
-- Working to get my CCNA.
+- Working my CCNA.
 
 ---
 
