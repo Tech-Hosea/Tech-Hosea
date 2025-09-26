@@ -7,7 +7,7 @@ I love building homelabs that mirror real-world environments and documenting exa
 
 ## 👨‍💻 Information Technology Projects (Featured)
 
-## [Secure Cloud Identity & Device Management Lab](https://github.com/Tech-Hosea/secure-cloud-identity-lab)
+## [Secure Cloud Identity & Device Management Lab](https://github.com/Tech-Hosea/Secure-Cloud-Identity-Device-Management-Lab)
 
 - **Active Directory, Networking, pfSense Firewall, Cisco Switching, VPN, File Sharing and Network Monitoring** -design, deploy, and manage enterprise infrastructure
   
