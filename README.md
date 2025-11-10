@@ -8,7 +8,7 @@ I build enterprise-grade homelabs that mirror real-world environments and docume
 
 ### 🔐 Secure Cloud Identity & Device Management Lab  
 **Microsoft 365 + Intune + Entra ID** — full cloud identity + endpoint security deployment  
-➡️ https://github.com/Tech-Hosea/Secure-Cloud-Identity-Device-Management-Lab
+➡️ https://github.com/Tech-Hosea/Secure-Cloud-Identity
 
 ---
 
