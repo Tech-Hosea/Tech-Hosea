@@ -1,49 +1,82 @@
-# How's it going? I'm Hosea 👋
+# 👋 How's it going? I'm Hosea
 
-I’m an **IT Professional** focused on **IT Support, Systems Administration, Azure, and Cybersecurity**. 
-I love building homelabs that mirror real-world environments and documenting exactly how things work.
+I build enterprise-grade homelabs that mirror real-world environments and document every configuration so others can learn too.
+
+---
+
+## 🚀 Featured Information Technology Projects
+
+### 🔐 Secure Cloud Identity & Device Management Lab  
+**Microsoft 365 + Intune + Entra ID** — full cloud identity + endpoint security deployment  
+➡️ https://github.com/Tech-Hosea/Secure-Cloud-Identity-Device-Management-Lab
 
 ---
 
-## 👨‍💻 Information Technology Projects (Featured)
+### 🖥️ Enterprise Lab Infrastructure  
+Design, deploy, and manage on-prem enterprise infrastructure featuring:
 
-## [Secure Cloud Identity & Device Management Lab](https://github.com/Tech-Hosea/Secure-Cloud-Identity-Device-Management-Lab)
+- Active Directory Domain Services
+- Cisco Switching + VLAN segmentation
+- pfSense Firewall (VPN, DHCP Relay, DNS Forwarder)
+- File sharing and network monitoring
 
-- **Active Directory, Networking, pfSense Firewall, Cisco Switching, VPN, File Sharing and Network Monitoring** -design, deploy, and manage enterprise infrastructure
-  
-  ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure
-- **Install AD DS, promote domain controller, create OUs, users, and GPOs
-  
-  ➜ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure/blob/main/docs/ActiveDirectory.md
-  
-- **osTicket (Help Desk)** – Ticketing system setup, email piping, SLA & workflow design  
-  ➜ https://github.com/Tech-Hosea/osTicket-setup
+🔗 Repo:  
+➡️ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure
+
+📄 Active Directory Build Guide (OUs, Users, GPOs):  
+➡️ https://github.com/Tech-Hosea/Enterprise-Lab-Infrastructure/blob/main/docs/ActiveDirectory.md
 
 ---
-## Up coming Project 
-- **Azure Compute & Networking** – VMs, VNets, NSGs, Bastion, storage and monitoring
+
+### 🎫 osTicket — Help Desk Ticketing System
+- Ticketing system installation and configuration
+- SLA, automation workflows, and email piping
+
+🔗 Repo:  
+➡️ https://github.com/Tech-Hosea/osTicket-setup
+
+---
+
+## 🛠️ Upcoming Lab
+☁️ **Azure Compute & Networking**
+- VMs, VNets, NSGs, Bastion
+- Storage + monitoring + automation
+
 ---
 
 ## 🎯 What I’m Working On
-- Automating routine tasks with **Bash** and **Python**
-- Working on my CCNA.
+- Automating routine admin tasks using **PowerShell, Bash, and Python**
+- Studying for my **CCNA certification**
 
 ---
 
 ## 🧰 Toolbelt
-`Windows Server` · `Active Directory` · `Group Policy` · `Microsoft 365 / Entra ID` · `Azure` · `Intune` · `pfSense` · `DNS/DHCP` · `VLANs` · `RDP/SSH` · `PowerShell` · `Bash` · `Python`
+
+| Core Skills | Cloud & Identity | Networking & Security | Scripting |
+|-------------|------------------|------------------------|-----------|
+| Windows Server · Active Directory · Group Policy | Microsoft 365 / Entra ID · Azure · Intune | pfSense · DNS/DHCP · VLANs · RDP/SSH | PowerShell · Bash · Python |
 
 ---
 
 ## 🏅 Certifications
+
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1F22?logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1F22?logo=comptia&logoColor=white)
 
 ---
 
-## 🤳 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/hosea-thang
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Tech-Hosea&show_icons=true&hide_border=false&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Hosea&layout=compact&hide_border=false" />
+</p>
+
 ---
+
+## 🧩 Architecture (Visual Overview)
+> *(Diagram placeholder — upload PNG/SVG when ready)*
+
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tech-Hosea&show_icons=true&theme=tokyonight)
